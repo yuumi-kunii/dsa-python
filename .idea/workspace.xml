@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="dcd37269-a4e7-4f7e-8d21-ec0c6b6cbff6" name="Changes" comment="open hashing">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/closed-hashing.py" beforeDir="false" afterPath="$PROJECT_DIR$/closed-hashing.py" afterDir="false" />
-    </list>
+    <list default="true" id="dcd37269-a4e7-4f7e-8d21-ec0c6b6cbff6" name="Changes" comment="hashing" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -112,7 +109,31 @@
       <option name="project" value="LOCAL" />
       <updated>1702768510670</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="open hashing">
+      <option name="closed" value="true" />
+      <created>1704202295788</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1704202295788</updated>
+    </task>
+    <task id="LOCAL-00003" summary="hashing">
+      <option name="closed" value="true" />
+      <created>1704202359690</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1704202359690</updated>
+    </task>
+    <task id="LOCAL-00004" summary="hashing">
+      <option name="closed" value="true" />
+      <created>1704202383933</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1704202383933</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -128,6 +149,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="open hashing" />
-    <option name="LAST_COMMIT_MESSAGE" value="open hashing" />
+    <MESSAGE value="hashing" />
+    <option name="LAST_COMMIT_MESSAGE" value="hashing" />
   </component>
 </project>
